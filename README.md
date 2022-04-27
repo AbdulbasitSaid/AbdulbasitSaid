@@ -11,7 +11,7 @@ I am an open-minded and motivated Mobile Developer who seeks continual growth by
 * ✉️  You can contact me at [abdulbasitsaeed619@gmail.com](mailto:abdulbasitsaeed619@gmail.com)
 * 🚀  I'm currently working on [Donation App](http://idonat.io/)
 * 🧠  I'm learning ReactJS
-* 🤝  I'm open to collaborating on Interesting projects
+* 🤝  I'm open to collaborating on Interesting Fluttter projects
 * ⚡  I love UFC
 
 <a href="https://www.github.com/AbdulbasitSaid" target="_blank" rel="noreferrer"><img
