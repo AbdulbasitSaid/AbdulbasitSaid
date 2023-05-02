@@ -3,8 +3,7 @@ Hi 👋 My name is Abdulbasit Said Ibrahim
 
 Flutter Developer
 -----------------
-
-I am an open-minded and motivated Mobile Developer who seeks continual growth by consistently learning, unlearning, and relearning. I have over five (5) years of experience in Software development and have worked on challenging and engaging projects that required me to work outside my knowledge set. Also, convert business/user requirements into maintainable and scalable code. My technical expertise includes fluency in Dart (framework: Flutter) and React.js, knowledge in continuous integration and deployment/delivery using GitLab CI, familiarity with cloud technologies like Heroku, building REST API, Codemigic, GitHub actions unit testing using Flutter, and much more. I have been instrumental in the planning and development of several applications I worked on single-handedly or as part of a team. I am currently on a journey to become a creative front-end web and mobile developer. You can reach me via email at abdulbasitsaeed619@gmail.com.
+As a Mobile Developer, I strive for growth by continuously learning, unlearning, and relearning. With over five years of experience in software development, I have worked on challenging projects that required me to expand my knowledge. I am skilled in Dart (framework: Flutter) and React.js, have knowledge of continuous integration and deployment/delivery using GitLab CI, and am familiar with cloud technologies like Heroku. I also have experience building REST API, Codemigic, GitHub actions, and unit testing using Flutter. I have played a significant role in developing several applications independently or as part of a team. I am working towards becoming a creative front-end web and mobile developer. You can contact me via email at abdulbasitsaeed619@gmail.com.
 
 * 🌍  I'm based in the Netherlands
 * ✉️  You can contact me at [abdulbasitsaeed619@gmail.com](mailto:abdulbasitsaeed619@gmail.com)
