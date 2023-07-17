@@ -9,7 +9,7 @@ As a Mobile Developer, I strive for growth by continuously learning, unlearning,
 * ✉️  You can contact me at [abdulbasitsaeed619@gmail.com](mailto:abdulbasitsaeed619@gmail.com)
 * 🚀  I'm currently working on [Lepaya App](https://lepaya.com/)
 * 🧠  I'm learning ReactJS
-* 🤝  I'm open to collaborating on Interesting Fluttter projects
+* 🤝  I'm open to collaborating on Interesting Flutter projects
 * ⚡  I love UFC
 
 <a href="https://www.github.com/AbdulbasitSaid" target="_blank" rel="noreferrer"><img
