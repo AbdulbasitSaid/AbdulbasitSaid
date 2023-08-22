@@ -8,7 +8,7 @@ As a front-end Developer, I strive for growth by continuously learning, unlearni
 * 🌍  I'm based in the Netherlands
 * ✉️  You can contact me at [abdulbasitsaeed619@gmail.com](mailto:abdulbasitsaeed619@gmail.com)
 * 🚀  I'm currently working on [Lepaya App](https://lepaya.com/)
-* 🧠  I'm learning ReactJS
+* 🧠  I'm learning Backend Development
 * 🤝  I'm open to collaborating on Interesting Flutter projects
 * ⚡  I love UFC
 
