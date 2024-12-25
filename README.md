@@ -1,5 +1,24 @@
 # 💫 About Me:
-	1.	I’m currently working on:<br>	•	An ultra-learning project to master Mathematics, Physics, and Data Structures & Algorithms (DSA), integrated into Flutter and JavaScript projects like 3D/2D games and UI systems.<br>	2.	I’m looking to collaborate on:<br>	•	Projects involving mathematics-based UI/UX designs, game development using JavaScript Canvas, and learning resources for mathematics, DSA, or physics.<br>	3.	I’m looking for help with:<br>	•	Advanced Mathematics, Physics, and Data Structures concepts, especially for integrating them into real-world programming projects.<br>	4.	I’m currently learning:<br>	•	Mathematics (arithmetic to calculus), Data Structures & Algorithms, and Physics, focusing on their applications in games and UI programming.<br>	5.	Ask me about:<br>	•	Flutter development, mobile app development (including CI/CD), or creating real-world projects that combine programming and mathematical concepts.<br>	6.	Fun fact:<br>	•	I am athletic
+
+#### 🛠 I’m currently working on:
+- An **ultra-learning project** to master **Mathematics**, **Physics**, and **Data Structures & Algorithms (DSA)**. I'm applying these concepts in **Flutter** and **JavaScript** projects like **3D/2D games** and **complex UI systems**.
+
+#### 🤝 I’m looking to collaborate on:
+- Projects involving **mathematics-based UI/UX designs**, **game development** using **JavaScript Canvas**, and **learning resources** for Mathematics, DSA, or Physics.
+
+#### ✋ I’m looking for help with:
+- **Advanced Mathematics**, **Physics**, and **Data Structures** concepts, especially for integrating them into real-world programming projects.
+
+#### 🌱 I’m currently learning:
+- **Mathematics** (from arithmetic to calculus),  
+- **Data Structures & Algorithms (DSA)**, and  
+- **Physics**, focusing on real-world programming applications like **games** and **UI programming**.
+
+#### 💬 Ask me about:
+- **Flutter development**, **mobile app development** (including **CI/CD**), or creating **real-world projects** that combine programming and mathematical concepts.
+
+#### ⚡ Fun fact:
+- I’m simultaneously learning **advanced math**, **physics**, and **programming**, while managing **family life** and working as a **mobile software developer** in Rotterdam!
 
 
 ## 🌐 Socials:
