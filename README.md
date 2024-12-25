@@ -18,7 +18,7 @@
 - **Flutter development**, **mobile app development** (including **CI/CD**), or creating **real-world projects** that combine programming and mathematical concepts.
 
 #### ⚡ Fun fact:
-- I’m simultaneously learning **advanced math**, **physics**, and **programming**, while managing **family life** and working as a **mobile software developer** in Rotterdam!
+- I’m **athletic**—I can do **handstands** and **flips** while balancing my love for coding and family life as a **mobile software developer** in Rotterdam!
 
 
 ## 🌐 Socials:
