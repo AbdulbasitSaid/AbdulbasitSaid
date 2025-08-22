@@ -1,5 +1,10 @@
 # 💫 About Me:
-	•	Currently working on: an ultralearning project where I’m improving my tech skills by building projects in Rust and Flutter, while documenting the journey on YouTube.<br>	•	Looking to collaborate on: Open-source Rust graphics/engine projects and educational content creation around math, physics, and programming.<br>	•	Looking for help with: GPU programming deep dives, efficient learning workflows, and growing a strong YouTube tech channel.<br>	•	Currently learning: Rust, graphics programming (WGPU), storytelling, and math.<br>	•	Ask me about: Flutter app development, software engineering best practices, and ultralearning strategies.<br>	•	Fun fact: I once decided to study physics textbooks just to better understand graphics programming—and now I’m considering specialising as a graphics engineer.
+- Currently working on: an ultralearning project where I’m improving my tech skills by building projects in Rust and Flutter, while documenting the journey on YouTube.
+- Looking to collaborate on: Open-source Rust graphics/engine projects and educational content creation around math, physics, and programming.
+- Looking for help with: GPU programming deep dives, efficient learning workflows, and growing a strong YouTube tech channel.
+- Currently learning: Rust, graphics programming (WGPU), storytelling, and math.
+- Ask me about: Flutter app development, software engineering best practices, and ultralearning strategies.
+- Fun fact: I love to cycle. And don't be supprized if you see me doing flips.
 
 
 ## 🌐 Socials:
