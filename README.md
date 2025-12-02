@@ -4,7 +4,7 @@
 - 🎗️ Looking for help with: GPU programming deep dives, efficient learning workflows, and growing a strong YouTube tech channel.
 - 🏫 Currently learning: Rust, graphics programming (WGPU), storytelling, and math.
 - 🙋🏾‍♂️ Ask me about: Flutter app development, software engineering best practices, and ultralearning strategies.
-- 🎡 Fun fact: I love to cycle. And don't be supprized if you see me doing flips.
+- 🎡 Fun fact: I love to cycle. And don't be surprised if you see me doing acrobatics.
 
 
 ## 🌐 Socials:
