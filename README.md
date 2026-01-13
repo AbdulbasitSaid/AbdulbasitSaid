@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **Instructra and the ultra learning software engineering project**
 
-- 🌱 I'm currently learning **Go, Rust, Backend engineering, Ops and Systems design**
+- 🌱 I'm currently learning **Go, Rust, Backend engineering, DevOps and Systems design**
 
 - 💬 Ask me about **Flutter, Go, and Rust**
 
