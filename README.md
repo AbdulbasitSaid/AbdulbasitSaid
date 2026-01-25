@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **Go, Rust, Backend engineering, DevOps and Systems design**
 
-- 💬 Ask me about **Flutter, Go, and Rust**
+- 💬 Ask me about **Flutter and Rust**
 
 - 📫 How to reach me **abdulbasit@techsihir.com**
 
