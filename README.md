@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **abdulbasit@techsihir.com**
 
-- ⚡ Fun fact **I am athletic and love going on adventures. **
+- ⚡ Fun fact **I am athletic and love going on adventures.**
 
 - 👨‍💻 All of my projects are available at **[https://www.techsihir.com/](https://www.techsihir.com/)**
 
