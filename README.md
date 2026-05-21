@@ -14,8 +14,6 @@
 
 - 👨‍💻 All of my projects are available at **[https://www.techsihir.com/](https://www.techsihir.com/)**
 
-- 📝 I regularly write articles on **[https://www.techsihir.com/blog](https://www.techsihir.com/blog)**
-
 - 📄 Know about my experiences **[https://www.linkedin.com/in/techsihir/](https://www.linkedin.com/in/techsihir/)**
 
 
