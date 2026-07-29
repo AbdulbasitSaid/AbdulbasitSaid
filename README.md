@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Flutter and Rust**
 
-- 📫 How to reach me via email: **abdulbasit@techsihir.com** and **abdulbasitsaeed619@gmail.com
+- 📫 How to reach me via email: **abdulbasit@techsihir.com** and **abdulbasitsaeed619@gmail.com**
 
 - ⚡ Fun fact **A goat once eat my wifes Homework**
 
