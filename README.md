@@ -8,11 +8,11 @@
 
 - 💬 Ask me about **Flutter and Rust**
 
-- 📫 How to reach me **abdulbasit@techsihir.com**
+- 📫 How to reach me via email: **abdulbasit@techsihir.com** and **abdulbasitsaeed619@gmail.com
 
-- ⚡ Fun fact **I am athletic and love going on adventures.**
+- ⚡ Fun fact **A goat once eat my wifes Homework**
 
-- 👨‍💻 All of my projects are available at **[https://www.techsihir.com/](https://www.techsihir.com/)**
+- 👨‍💻 All of my projects are available at **[https://www.techsihir.com/](https://www.techsihir.com/)** **(website still under development)**
 
 - 📄 Know about my experiences **[https://www.linkedin.com/in/techsihir/](https://www.linkedin.com/in/techsihir/)**
 
